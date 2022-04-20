@@ -44,6 +44,8 @@ class _baruState extends State<baru> {
                     height: 30,
                     child: Text(
                       "SALWA ALIF IWAFANI",
+                      style: TextStyle(
+                          color: Colors.white, fontWeight: FontWeight.bold),
                     )),
                 Container(
                     child: Text(
